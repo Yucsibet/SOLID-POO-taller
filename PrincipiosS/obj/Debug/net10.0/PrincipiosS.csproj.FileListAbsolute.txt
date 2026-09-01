@@ -1,0 +1,14 @@
+C:\Users\Fundauco Estudiantes\source\repos\PrincipiosS\PrincipiosS\bin\Debug\net10.0\PrincipiosS.exe
+C:\Users\Fundauco Estudiantes\source\repos\PrincipiosS\PrincipiosS\bin\Debug\net10.0\PrincipiosS.deps.json
+C:\Users\Fundauco Estudiantes\source\repos\PrincipiosS\PrincipiosS\bin\Debug\net10.0\PrincipiosS.runtimeconfig.json
+C:\Users\Fundauco Estudiantes\source\repos\PrincipiosS\PrincipiosS\bin\Debug\net10.0\PrincipiosS.dll
+C:\Users\Fundauco Estudiantes\source\repos\PrincipiosS\PrincipiosS\bin\Debug\net10.0\PrincipiosS.pdb
+C:\Users\Fundauco Estudiantes\source\repos\PrincipiosS\PrincipiosS\obj\Debug\net10.0\PrincipiosS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fundauco Estudiantes\source\repos\PrincipiosS\PrincipiosS\obj\Debug\net10.0\PrincipiosS.AssemblyInfoInputs.cache
+C:\Users\Fundauco Estudiantes\source\repos\PrincipiosS\PrincipiosS\obj\Debug\net10.0\PrincipiosS.AssemblyInfo.cs
+C:\Users\Fundauco Estudiantes\source\repos\PrincipiosS\PrincipiosS\obj\Debug\net10.0\PrincipiosS.csproj.CoreCompileInputs.cache
+C:\Users\Fundauco Estudiantes\source\repos\PrincipiosS\PrincipiosS\obj\Debug\net10.0\PrincipiosS.dll
+C:\Users\Fundauco Estudiantes\source\repos\PrincipiosS\PrincipiosS\obj\Debug\net10.0\refint\PrincipiosS.dll
+C:\Users\Fundauco Estudiantes\source\repos\PrincipiosS\PrincipiosS\obj\Debug\net10.0\PrincipiosS.pdb
+C:\Users\Fundauco Estudiantes\source\repos\PrincipiosS\PrincipiosS\obj\Debug\net10.0\PrincipiosS.genruntimeconfig.cache
+C:\Users\Fundauco Estudiantes\source\repos\PrincipiosS\PrincipiosS\obj\Debug\net10.0\ref\PrincipiosS.dll
